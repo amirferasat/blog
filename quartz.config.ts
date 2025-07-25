@@ -431,6 +431,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+    css: ["styles/custom.scss"],
     analytics: {
       provider: "plausible",
     },
