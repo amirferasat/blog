@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: وبلاگ من
+tags:
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+سلام من امیر فراست هستم. دانشجوی مهندسی کامپیوتر 👨‍💻
